@@ -72,7 +72,7 @@ class Ui_Dialog(object):
     def retranslateUi(self, Dialog):
         _translate = QtCore.QCoreApplication.translate
         Dialog.setWindowTitle(_translate("Dialog", "Folder Structure Creator"))
-        self.pushButton.setText(_translate("Dialog", "PushButton"))
+        self.pushButton.setText(_translate("Dialog", "Get Folder"))
         self.pushButton_2.setText(_translate("Dialog", "Create Folders"))
         self.pushButton_4.setText(_translate("Dialog", "Open"))
         self.pushButton_3.setText(_translate("Dialog", "Close"))
