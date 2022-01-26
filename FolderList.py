@@ -1,0 +1,8 @@
+Art = ["Environment", "Props", "Industrial", "Nature"]
+Characters = ["PlayerCharacter", "Character2", "Character3", "Character4", "Character5", "Common"]
+Core = ["Characters", "Characters", "GameModes", "Interactables", "Pickups", "Weapons"]
+Effects = ["Electrical", "Fire", "Weather"]
+Maps = ["Campaign1", "Campaign2", "Test"]
+MaterialLibrary = ["Debug", "Metal", "Paint", "Utility", "Weathering"]
+Placeables = ["Pickups"]
+Weapons = ["CharacterWeapon1", "CharacterWeapon2", "CharacterWeapon3", "CharacterWeapon4", "common"]
