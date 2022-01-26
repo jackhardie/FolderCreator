@@ -12,7 +12,7 @@ from pathlib import Path
 import tkinter as tk
 from tkinter import filedialog
 from PyQt5 import QtCore, QtGui, QtWidgets
-from FolderList import *
+from FolderList import Art, Characters, Core, Effects, Maps, MaterialLibrary, Placeables, Weapons
 
 
 class Ui_Dialog(object):
